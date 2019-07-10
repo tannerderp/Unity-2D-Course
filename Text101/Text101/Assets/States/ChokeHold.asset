@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c8620f85a07f9840b1d226127a48bad, type: 3}
+  m_Name: ChokeHold
+  m_EditorClassIdentifier: 
+  storyText: "The King is pissed. He grabs you by the neck and lifts you up 3 feet.
+    \n\n1. \"Can I be your friend?\"\n2. \"LOWER THE DANG TAXES!\""
+  nextStates:
+  - {fileID: 11400000, guid: 2bf3ca6e592bc6442a0f29736f2612ba, type: 2}
+  - {fileID: 11400000, guid: 734c8c62dcbedb5468bf840cfcd13a6b, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c8620f85a07f9840b1d226127a48bad, type: 3}
+  m_Name: King
+  m_EditorClassIdentifier: 
+  storyText: 'You walk into King O''Neal''s room. He''s over seven feet tall, and
+    super dominant. He''s sitting on a very nice chair. He asks what you want.
+
+
+    1. "Fight me Boi!"
+
+    2. "Nevermind"
+
+    3. "Your son is useless"'
+  nextStates:
+  - {fileID: 11400000, guid: 7e56a2c71fd9aa348833c775c6e43a8a, type: 2}
+  - {fileID: 11400000, guid: 2024e3b0f5bc514409108daae430bea1, type: 2}
+  - {fileID: 11400000, guid: b580e373dbf315341914f7a03f67f245, type: 2}

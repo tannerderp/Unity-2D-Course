@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c8620f85a07f9840b1d226127a48bad, type: 3}
+  m_Name: Friend
+  m_EditorClassIdentifier: 
+  storyText: 'You become the King''s friend. You and him are pretty cool with each
+    other now. So cool, he''s not making you pay taxes.
+
+
+    1. Tell him to lower the taxes for the sake of others
+
+    2. Be a jerk and live on
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 5562dadbb3d5a114bbaeb5c25fd8bb12, type: 2}
+  - {fileID: 11400000, guid: 2024e3b0f5bc514409108daae430bea1, type: 2}
