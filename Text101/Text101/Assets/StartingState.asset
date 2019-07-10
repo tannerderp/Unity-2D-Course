@@ -17,3 +17,7 @@ MonoBehaviour:
     king. You're standing in the village plaza. The castle is north and your house
     is behind you.\n \nWhat should you do?\n1. Go north\n2. Go back home\n3. Buy a
     banana"
+  nextStates:
+  - {fileID: 11400000, guid: 67f9c9a1140b905459ac0ca69b7a1aca, type: 2}
+  - {fileID: 11400000, guid: 99844f363aad69b46ba9fe28437f849e, type: 2}
+  - {fileID: 11400000, guid: 36f7bb46761b2c54fb8e9232cd4244c1, type: 2}
